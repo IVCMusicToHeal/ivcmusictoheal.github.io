@@ -1,0 +1,16 @@
+# Site settings
+title: IVC Music to Heal
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  The Irvine Valley College chapter of Music to Heal, an organization dedicated
+  to providing musical outlets to hospital facilities and health clinics.
+baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username:
+github_username: ivcmusictoheal
+
+# Build settings
+markdown: kramdown
+
+paginate: 3
+paginate_path: "blog/page:num"

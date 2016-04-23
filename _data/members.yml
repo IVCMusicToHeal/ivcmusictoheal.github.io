@@ -1,0 +1,84 @@
+- avatar: images/@stock/nledina.jpg
+  name: Nicole Ledina
+  position: President
+  socials:
+#    - link: http://twitter.com
+#      icon: twitter
+    - link: https://www.facebook.com/nicole.ledina
+      icon: facebook
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: images/@stock/dmartinez.jpg
+  name: Drake Martinez
+  position: Vice President
+  socials:
+#    - link: http://twitter.com
+#      icon: twitter
+    - link: https://www.facebook.com/drake.martinez.756
+      icon: facebook
+#    - link: http://dribbble.com
+#      icon: dribbble
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: images/@stock/mzamora.jpg
+  name: Marisol Zamora
+  position: Secretary
+  socials:
+#    - link: http://twitter.com
+#      icon: twitter
+    - link: https://www.facebook.com/mariisasongbird
+      icon: facebook
+#    - link: http://tumblr.com
+#      icon: tumblr
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: images/@stock/sbui.jpg
+  name: Sabrina Bui
+  position: ICC Representative
+  socials:
+#    - link: http://twitter.com
+#      icon: twitter
+    - link: https://www.facebook.com/sabrinabuik
+      icon: facebook
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: images/@stock/dfatheree.jpg
+  name: Dallas Fatheree
+  position: Treasurer
+  socials:
+    - link: https://www.facebook.com/dallas.fatheree
+      icon: facebook
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: images/@stock/jcallaghan.jpg
+  name: Jason Callaghan
+  position: Music Director
+  socials:
+    - link: https://www.facebook.com/jason.callaghan29
+      icon: facebook
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: images/@stock/dazamy.jpg
+  name: David Azamy
+  position: Music Director
+  socials:
+    - link: https://www.facebook.com/dazamy
+      icon: facebook
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: images/@stock/ngaydos.jpg
+  name: Nick Gaydos
+  position: Media Arts Director
+  socials:
+    - link: https://www.facebook.com/sleeves.nick
+      icon: facebook
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+- avatar: images/@stock/dluzko.jpg
+  name: Dr. Daniel Luzko
+  position: Advisor
+  socials:
+    - link: https://www.facebook.com/danyluzko
+      icon: facebook
+  desc:
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
